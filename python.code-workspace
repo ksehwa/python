@@ -3,10 +3,6 @@
 		{
 			"name": "python",
 			"path": "."
-		},
-		{
-			"name": "시각화",
-			"path": "../../Users/user/시각화"
 		}
 	],
 	"settings": {}
